@@ -1,0 +1,2 @@
+# Loto
+A game
